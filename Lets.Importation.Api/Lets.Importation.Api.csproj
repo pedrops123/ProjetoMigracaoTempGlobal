@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Lets.Core.Api" Version="1.0.19" />
+    <PackageReference Include="Lets.Core.Logger" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lets.Importation.Domain.Command\Lets.Importation.Domain.Command.csproj" />
+    <ProjectReference Include="..\Lets.Importation.Domain\Lets.Importation.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,10 @@
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\bin\Debug\netcoreapp3.1\Lets.Importation.Domain.deps.json
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\bin\Debug\netcoreapp3.1\Lets.Importation.Domain.dll
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\bin\Debug\netcoreapp3.1\Lets.Importation.Domain.pdb
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\obj\Debug\netcoreapp3.1\Lets.Importation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\obj\Debug\netcoreapp3.1\Lets.Importation.Domain.AssemblyInfoInputs.cache
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\obj\Debug\netcoreapp3.1\Lets.Importation.Domain.AssemblyInfo.cs
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\obj\Debug\netcoreapp3.1\Lets.Importation.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\obj\Debug\netcoreapp3.1\Lets.Importation.Domain.dll
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\obj\Debug\netcoreapp3.1\Lets.Importation.Domain.pdb
+C:\Projetos_Lets\Importation\Lets.Importation.Domain\obj\Debug\netcoreapp3.1\Lets.Importation.Domain.csproj.AssemblyReference.cache
